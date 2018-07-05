@@ -1,0 +1,26 @@
+body{
+  background: orange;
+  text-align: center;
+}
+img{
+  width: 40%;
+}
+.card{
+  background: violet;
+  width= 30;
+  border-radius: 2em;
+}
+#card {
+justify-content:space-around;
+display:flex;
+margin:2%;
+}
+.card:hover{
+  box-shadow: 0 20px 20px 0 purple;
+}
+@media only screen and (min-device-width:550px) and
+ (min-device-width:460px) {
+.card{
+  width: 100%;
+}
+}
