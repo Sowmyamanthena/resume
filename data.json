@@ -1,0 +1,17 @@
+{
+  "co":{
+  "data":"this is my strength"
+  },
+  "education":[{
+    "name":"b-tech :",
+    "inst":"completing my btech in  andhra loyola institute of engg and tech with 89%"
+  },
+  {
+    "name":"intermediate :",
+    "inst":"completed my intermediate  in narayana jr college with 90%"
+  },
+  {
+    "name":"ssc :",
+    "inst":"completed my ssc in sbss with 98%"
+  }]
+}
